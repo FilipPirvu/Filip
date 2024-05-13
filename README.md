@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Filip</h1>
-<h3 align="center">I have almost 2 years of IT experience. Armed with solid experience in Linux and Windows system administration, scripting languages ( Python, PowerShell, Bash) and cloud platforms like AWS and Azure.</h3>
+<h3 align="center">I have almost 2 years of IT experience with expertise in Linux and Windows system administration and technical support. With a passion for cloud technology, I'm ready to transition into the dynamic world of cloud computing. Armed with solid experience in Linux and Windows system administration, scripting languages ( Python, PowerShell, Bash) and cloud platforms like AWS and Azure, I'm well-equipped to thrive in this space.
+ Let's connect to talk more about me and how I can contribute to your team..</h3>
 
 - 🔭 I'm currently working to improve my knowledge in cloud computing, with a particular focus on mastering infrastructure as code (IaC) principles. With expertise in scripting and programming languages such as Python, PowerShell, and MySQL. My goal is to architect and deploy resilient cloud solutions on platforms like AWS and Azure to drive business innovation and scalability. **Azure,AWS**
 
