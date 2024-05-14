@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Filip</h1>
 <h3 align="center">
 🚀 I have almost 2 years of IT experience with expertise in Linux and Windows system administration and technical support. </h3>
-</h3>
-📍 Armed with solid experience in Linux and Windows system administration, scripting languages ( Python, PowerShell, Bash) and cloud platforms like AWS and Azure.
-🔭 I'm currently working to improve my knowledge in cloud computing, with a particular focus on mastering infrastructure as code (IaC) principles. 
-🎁 My goal is to architect and deploy resilient cloud solutions on platforms like AWS and Azure to drive business innovation and scalability.
-</h3>
+</h3>📍 Armed with solid experience in Linux and Windows system administration, scripting languages ( Python, PowerShell, Bash) and cloud platforms like AWS and Azure.</h3>
+</h3>🔭 I'm currently working to improve my knowledge in cloud computing, with a particular focus on mastering infrastructure as code (IaC) principles. </h3>
+</h3>🎁 My goal is to architect and deploy resilient cloud solutions on platforms like AWS and Azure to drive business innovation and scalability.</h3>
 
- **Azure,AWS**
 
-- 🌱 I’m currently learning **Terraform, PowerShell, Docker, Python, Git, Azure, AWS **
+- 🌱 I’m currently learning - Terraform, PowerShell, Docker, Python, Git, Azure, AWS
 
 - 📫 How to reach me **pirvuu.filip@gmail.com**
 
